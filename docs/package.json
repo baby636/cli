@@ -9,7 +9,7 @@
     "url": "https://github.com/npm/cli"
   },
   "dependencies": {
-    "babel-plugin-styled-components": "^1.10.6",
+    "babel-plugin-styled-components": "^1.12.0",
     "eslint": "^6.3.0",
     "gatsby": "^2.18.17",
     "gatsby-image": "^2.2.37",
